@@ -14,8 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=MyOrmonjonovf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## Connect with Me 🤝
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therlMuhammadyusuf) 
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Muhammadyusuf)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therldasturchi_hayoti00) 
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/@coder10_08)
   
 ---
 
